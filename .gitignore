@@ -102,3 +102,6 @@ quarkus/data/*.db
 # Keycloak state dir as suggested in the docs
 # -Dkc.home.dir=.kc
 .kc
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
